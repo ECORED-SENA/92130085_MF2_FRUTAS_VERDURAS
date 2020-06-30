@@ -1,0 +1,89 @@
+[
+  {
+    "letter": "A",
+    "terms": [
+      {
+        "title": "Aeróbica",
+        "desciption": "Que se produce con el uso de oxígeno."
+      },
+      {
+        "title": "Anaeróbica",
+        "desciption": "Que se produce sin el uso de oxígeno."
+      },
+      {
+        "title": "Astringencia",
+        "desciption": "Sensación de sequedad intensa y amargor al paladar."
+      }
+    ]
+  },
+  {
+    "letter": "C",
+    "terms": [
+      {
+        "title": "Climaterio",
+        "desciption": "Punto donde ciertas frutas tienen una maduración organoléptica rápida."        
+      },
+      {
+        "title": "Cosecha",
+        "desciption": "Acción de recoger los frutos de los cultivos."        
+      }
+    ]
+  }, 
+  {
+    "letter": "F",
+    "terms": [
+      {
+        "title": "Fisiología",
+        "desciption": "Ciencia que estudia los órganos de los seres vivos y su funcionamiento."
+      }
+    ]
+  },
+  {
+    "letter": "G",
+    "terms": [
+      {
+        "title": "Gelificación",
+        "desciption": "Transformación de una sustancia a una forma gelatinosa."
+      }
+    ]
+  },  
+  {
+    "letter": "M",
+    "terms": [
+      {
+        "title": "Morfología",
+        "desciption": "Relativo a la forma de los seres orgánicos y los cambios que experimenta."
+      }
+    ] 
+  },  
+  {
+    "letter": "O",
+    "terms": [
+      {
+        "title": "Organoléptico",
+        "desciption": "Característica que puede ser percibida por los órganos de los sentidos."
+      }
+    ]
+ 
+  },  
+  {
+    "letter": "P",
+    "terms": [
+      {
+        "title": "Pectina",
+        "desciption": "Polisacárido componente de los vegetales principalmente las frutas, utilizado a nivel industrial para la formación de geles."
+      }
+    ]
+ 
+  },  
+  {
+    "letter": "S",
+    "terms": [
+      {
+        "title": "Senescencia",
+        "desciption": "Etapa donde se empieza a envejecer."
+      }
+    ]
+ 
+  }
+]

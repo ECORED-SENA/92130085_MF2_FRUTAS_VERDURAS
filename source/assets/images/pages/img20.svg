@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="702" height="131.901" viewBox="0 0 702 131.901">
+  <g id="Grupo_5511" data-name="Grupo 5511" transform="translate(-219 -3744.028)">
+    <g id="Rectángulo_3176" data-name="Rectángulo 3176" transform="translate(219 3779)" fill="none" stroke="#c0e34c" stroke-width="3">
+      <rect width="702" height="79" rx="12" stroke="none"/>
+      <rect x="1.5" y="1.5" width="699" height="76" rx="10.5" fill="none"/>
+    </g>
+    <g id="Grupo_5492" data-name="Grupo 5492" transform="translate(278 3744.028)">
+      <g id="Grupo_5101" data-name="Grupo 5101" transform="translate(0)">
+        <path id="Trazado_10903" data-name="Trazado 10903" d="M65.951,0A65.951,65.951,0,1,1,0,65.951,65.951,65.951,0,0,1,65.951,0Z" fill="#7cb342"/>
+        <path id="Trazado_1178" data-name="Trazado 1178" d="M58.857,0A58.857,58.857,0,1,1,0,58.857,58.857,58.857,0,0,1,58.857,0Z" transform="translate(7.631 7.631)" fill="#7cb342"/>
+      </g>
+    </g>
+    <g id="Grupo_5493" data-name="Grupo 5493" transform="translate(504.049 3744.028)">
+      <g id="Grupo_5101-2" data-name="Grupo 5101" transform="translate(0)">
+        <path id="Trazado_10903-2" data-name="Trazado 10903" d="M65.951,0A65.951,65.951,0,1,1,0,65.951,65.951,65.951,0,0,1,65.951,0Z" fill="#c0e34c"/>
+        <path id="Trazado_1178-2" data-name="Trazado 1178" d="M58.857,0A58.857,58.857,0,1,1,0,58.857,58.857,58.857,0,0,1,58.857,0Z" transform="translate(7.631 7.631)" fill="#c0e34c"/>
+      </g>
+    </g>
+    <g id="Grupo_5494" data-name="Grupo 5494" transform="translate(730.099 3744.028)">
+      <g id="Grupo_5101-3" data-name="Grupo 5101" transform="translate(0)">
+        <path id="Trazado_10903-3" data-name="Trazado 10903" d="M65.951,0A65.951,65.951,0,1,1,0,65.951,65.951,65.951,0,0,1,65.951,0Z" fill="#d0ff33"/>
+        <path id="Trazado_1178-3" data-name="Trazado 1178" d="M58.857,0A58.857,58.857,0,1,1,0,58.857,58.857,58.857,0,0,1,58.857,0Z" transform="translate(7.631 7.631)" fill="#d0ff33"/>
+      </g>
+    </g>
+    <text id="Cambio_de_forma" data-name="Cambio de forma" transform="translate(286.901 3795)" fill="#002b45" font-size="16" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="13.336" y="15">Cambio de </tspan><tspan x="32.792" y="33">forma</tspan></text>
+    <text id="Degradación_de_almidones_y_grasas." data-name="Degradación de almidones y grasas." transform="translate(512.951 3786)" fill="#002b45" font-size="16" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="5.2" y="15">Degradación </tspan><tspan x="2.592" y="33">de almidones </tspan><tspan x="21.456" y="51">y grasas.</tspan></text>
+    <text id="Incremento_de_vitamina_C." data-name="Incremento de vitamina C." transform="translate(739 3786)" fill="#002b45" font-size="16" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="9.896" y="15">Incremento </tspan><tspan x="9.256" y="33">de vitamina </tspan><tspan x="48.84" y="51">C.</tspan></text>
+  </g>
+</svg>

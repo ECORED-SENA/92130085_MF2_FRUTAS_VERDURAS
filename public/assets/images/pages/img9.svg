@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="781" height="246" viewBox="0 0 781 246">
+  <defs>
+    <filter id="Rectángulo_3162" x="0" y="60" width="196" height="110" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_3163" x="198" y="0" width="572" height="62" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_3164" x="198" y="53" width="572" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_3165" x="198" y="118" width="572" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_3166" x="198" y="183" width="572" height="63" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_5507" data-name="Grupo 5507" transform="translate(-175 -2158)">
+    <g transform="matrix(1, 0, 0, 1, 175, 2158)" filter="url(#Rectángulo_3162)">
+      <rect id="Rectángulo_3162-2" data-name="Rectángulo 3162" width="178" height="92" rx="12" transform="translate(9 66)" fill="#80cbc4"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 175, 2158)" filter="url(#Rectángulo_3163)">
+      <rect id="Rectángulo_3163-2" data-name="Rectángulo 3163" width="554" height="44" rx="12" transform="translate(207 6)" fill="#80cbc4"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 175, 2158)" filter="url(#Rectángulo_3164)">
+      <rect id="Rectángulo_3164-2" data-name="Rectángulo 3164" width="554" height="56" rx="12" transform="translate(207 59)" fill="#80cbc4"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 175, 2158)" filter="url(#Rectángulo_3165)">
+      <rect id="Rectángulo_3165-2" data-name="Rectángulo 3165" width="554" height="56" rx="12" transform="translate(207 124)" fill="#80cbc4"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 175, 2158)" filter="url(#Rectángulo_3166)">
+      <rect id="Rectángulo_3166-2" data-name="Rectángulo 3166" width="554" height="45" rx="12" transform="translate(207 189)" fill="#80cbc4"/>
+    </g>
+    <text id="Tienen_una_maduración_organoléptica_rápida_conocida_como_climaterio._" data-name="Tienen una maduración organoléptica rápida, conocida como climaterio. " transform="translate(392 2174)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">Tienen una maduración organoléptica rápida, conocida como climaterio. </tspan></text>
+    <text id="Durante_este_periodo_la_fruta_se_ablanda_y_desarrolla_su_sabor_y_aroma_característicos._" data-name="Durante este periodo, la fruta se ablanda y desarrolla su sabor y aroma característicos. " transform="translate(392 2290)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">Durante este periodo, la fruta se ablanda y desarrolla su sabor y aroma </tspan><tspan x="0" y="39">característicos. </tspan></text>
+    <text id="La_respiración_producción_de_calor_y_producción_de_etileno_aumenta_en_ellas_de_un_modo_a_veces_acelerado." data-name="La respiración, producción de calor y producción de etileno aumenta en ellas de un modo a veces acelerado." transform="translate(392 2219)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">La respiración, producción de calor y producción de etileno aumenta en </tspan><tspan x="0" y="39">ellas de un modo a veces acelerado.</tspan></text>
+    <text id="Pueden_madurarse_artificialmente_mediante_tratamiento_con_etileno._" data-name="Pueden madurarse artificialmente mediante tratamiento con etileno. " transform="translate(392 2356)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">Pueden madurarse artificialmente mediante tratamiento con etileno. </tspan></text>
+    <path id="Trazado_11340" data-name="Trazado 11340" d="M0,188.985V0" transform="translate(278 2180.515)" fill="none" stroke="#80cbc4" stroke-width="3"/>
+    <line id="Línea_110" data-name="Línea 110" x2="104" transform="translate(278 2182)" fill="none" stroke="#80cbc4" stroke-width="3"/>
+    <line id="Línea_111" data-name="Línea 111" x2="104" transform="translate(278 2290)" fill="none" stroke="#80cbc4" stroke-width="3"/>
+    <line id="Línea_113" data-name="Línea 113" x2="104" transform="translate(278 2246)" fill="none" stroke="#80cbc4" stroke-width="3"/>
+    <line id="Línea_112" data-name="Línea 112" x2="104" transform="translate(278 2370)" fill="none" stroke="#80cbc4" stroke-width="3"/>
+    <text id="Frutos_climatéricos" data-name="Frutos climatéricos" transform="translate(213.5 2246)" fill="#00223d" font-size="18" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="30.606" y="19">Frutos </tspan><tspan x="4.375" y="43">climatéricos</tspan></text>
+  </g>
+</svg>
