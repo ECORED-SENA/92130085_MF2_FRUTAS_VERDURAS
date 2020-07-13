@@ -1,0 +1,68 @@
+[
+  {
+    "letter": "A",
+    "terms": [
+      {
+        "title": "Aditivo",
+        "desciption": "Sustancia que se agrega de forma intencional a los alimentos para impedir alteraciones, mejorar sus características organolépticas o mejorar el proceso de elaboración."
+      },
+      {
+        "title": "Antioxidante",
+        "desciption": "Sustancia o mezcla de sustancias que impiden las alteraciones ocasionadas por la oxidación de los alimentos."
+      },
+      {
+        "title": "Aspersión",
+        "desciption": "Acción de esparcir en gotas menudas."
+      }
+    ]
+  },
+  {
+    "letter": "C",
+    "terms": [
+      {
+        "title": "Conservante",
+        "desciption": "Sustancia o mezclas de sustancias que retardan el proceso biológico de alteración producido en los alimentos por los microorganismos o las enzimas."        
+      }
+    ]
+  }, 
+  {
+    "letter": "E",
+    "terms": [
+      {
+        "title": "Escaldado",
+        "desciption": "Exposición del producto a un tratamiento térmico, por unos pocos minutos con el fin primordial de inactivar las enzimas presentes."
+      },
+      {
+        "title": "Esterilización",
+        "desciption": "Tratamiento térmico que destruye todos los microorganismos en un alimento utilizando temperaturas superiores a 100°C."
+      }
+    ]
+  },
+  {
+    "letter": "M",
+    "terms": [
+      {
+        "title": "Materia prima",
+        "desciption": "Elemento principal que una industria o fábrica requiere para transformarla en un producto."
+      }
+    ]
+  },  
+  {
+    "letter": "P",
+    "terms": [
+      {
+        "title": "Pardeamiento",
+        "desciption": "Es el oscurecimiento que presentan algunos alimentos como las frutas cuando tienen contacto con el oxígeno."
+      },
+      {
+        "title": "Pasteurización",
+        "desciption": "Proceso térmico que se utiliza para destruir la mayoría de los microorganismos patógenos de los alimentos por calentamiento a temperaturas inferiores a los 100°C."
+      },
+      {
+        "title": "pH",
+        "desciption": "Índice que expresa el grado de acidez o alcalinidad de una sustancia o producto."
+      }
+    ]
+ 
+  }
+]
